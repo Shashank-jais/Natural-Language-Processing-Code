@@ -1,0 +1,23 @@
+(myenv) PS D:\Desktop\Semester 6\NLP\Natural Language Processing Code\Morphological Analysis> python .\app.py
+Default Test Cases:
+Input: Cats -> Output: Cats + N + SG
+Input: Cat -> Output: Cat + N + SG
+Input: Cities -> Output: Cities + N + SG
+Input: Geese -> Output: Geese + a
+Input: Goose -> Output: Goose + V
+Input: Gooses -> Output: Gooses + N + SG
+Input: Merging -> Output: Merging + V + Present Participle
+Input: Caught -> Output: Caught + N + SG
+Input: Running -> Output: Running + V + Present Participle
+Input: Played -> Output: Played + V + Past
+Input: Mice -> Output: mouse + N + SG
+Input: Children -> Output: child + N + SG
+Input: Ate -> Output: Ate + N + SG
+Input: Swam -> Output: Swam + N + SG
+Input: Ran -> Output: Ran + N + SG
+--------------------------------------------------------------------
+Custom Test Cases Input here : (-1 for exit)
+Custom Input String: apples
+Custom Test Case Output: apple + N + PL
+Custom Input String: -1
+End of Program
